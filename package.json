@@ -1,0 +1,22 @@
+{
+  "name": "moderna",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debayan930/Moderna.git"
+  },
+  "keywords": [
+    "moderna"
+  ],
+  "author": "Debayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debayan930/Moderna/issues"
+  },
+  "homepage": "https://github.com/debayan930/Moderna#readme"
+}
